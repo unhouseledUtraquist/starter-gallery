@@ -3,6 +3,19 @@
 Team membership:  AB (Captain) & CD (Mate)  
 Team conventions: Allman notation, markdown for changelog  
 Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
+## *Version x.x.2*
+
+Release Date: Sept 21, 2017
+
+## New Components
+-   None
+
+## Updated Components
+-   Replaced content of template.php with beginning and end of about.php
+-   Deleted beginning and end of about.php leaving only the meat
+-   Changed file extension of those pages from .html to .php
+-   Replaced placeholder title in MY_CONTROLLER with an actual title
+-   Updated index methods of other controllers
 
 ## *Version x.x.1*
 
