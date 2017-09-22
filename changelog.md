@@ -5,6 +5,15 @@ Team conventions: Allman notation, markdown for changelog
 Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
 ## *Version x.x.2*
 
+Release Date: Sept 22, 2017
+
+## New Components
+-   None
+
+## Updated Components
+-   Made everything more dynamic.
+-   Corrected the use of pagetitle.
+
 Release Date: Sept 21, 2017
 
 ## New Components
