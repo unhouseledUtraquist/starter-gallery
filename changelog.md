@@ -11,8 +11,10 @@ Release Date: Sept 22, 2017
 -   None
 
 ## Updated Components
--   Made everything more dynamic.
--   Corrected the use of pagetitle.
+-   Autoload contents from db
+-   Gallery auto-generates
+-   Homepage pulls 3 most recent images
+-   Corrected the use of pagetitle
 
 Release Date: Sept 21, 2017
 
