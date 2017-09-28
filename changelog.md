@@ -8,7 +8,7 @@ Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdo
 Release Date: Sept 22, 2017
 
 ## New Components
--   Nonee
+-   None
 
 ## Updated Components
 -   Autoload contents from db
